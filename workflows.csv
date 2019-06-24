@@ -265,7 +265,6 @@ maxibor,https://github.com/maxibor/coproID,maxibor/coproID,Coprolite host Identi
 MaxUlysse,https://github.com/MaxUlysse/compile-latex,MaxUlysse/compile-latex,Simple beamer/latex compiler using Nextflow  provided with Docker container,MIT,NF
 mchimenti,https://github.com/mchimenti/ATAC_seq_nextflow,mchimenti/ATAC_seq_nextflow,A bare bones ATAC_seq pipeline using NGmerge/Genrich from Harvard FAS best practices ,,NF
 mclaugsf,https://github.com/mclaugsf/seqtk-nextflow,mclaugsf/seqtk-nextflow,A simple seqtk nextflow AWS Batch test workflow,,NF
-melnel000,https://github.com/melnel000/Sarek_CBIO,melnel000/Sarek_CBIO,,MIT,NF
 MenheraMikumo,https://github.com/MenheraMikumo/Mao,MenheraMikumo/Mao,Nextflow pipeline prototype,,NF
 mes5k,https://github.com/mes5k/new_school_nf,mes5k/new_school_nf,,,NF
 mes5k,https://github.com/mes5k/nf-test,mes5k/nf-test,simple test for nextflow,,NF
@@ -293,6 +292,7 @@ nf-core,https://github.com/nf-core/configs,nf-core/configs,Config files used to 
 nf-core,https://github.com/nf-core/eager,nf-core/eager,A fully reproducible and state of the art ancient DNA analysis pipeline.,MIT,NF
 nf-core,https://github.com/nf-core/mag,nf-core/mag,Assembly and binning of metagenomes,MIT,NF
 nf-core,https://github.com/nf-core/nascent,nf-core/nascent,UNDER CONSTRUCTION - Nascent Transcription Processing Pipeline,MIT,NF
+nf-core,https://github.com/nf-core/sarek,nf-core/sarek,Detect germline or somatic variants from normal or tumour/normal whole-genome or targeted sequencing,MIT,NF
 nf-core,https://github.com/nf-core/vipr,nf-core/vipr,Assembly and intrahost / low-frequency variant calling for viral samples,MIT,NF
 noelnamai,https://github.com/noelnamai/thesis,noelnamai/thesis,A Large Scale  Cloud Based  Low Cost and Reproducible Mutation Calling Pipeline Using Docker Containers,,NF
 NorwegianVeterinaryInstitute,https://github.com/NorwegianVeterinaryInstitute/Bifrost,NorwegianVeterinaryInstitute/Bifrost,,NOASSERTION,NF
@@ -337,7 +337,6 @@ rsuchecki,https://github.com/rsuchecki/asm,rsuchecki/asm,,GPL-3.0,NF
 rsuchecki,https://github.com/rsuchecki/radsddrad,rsuchecki/radsddrad,,Apache-2.0,NF
 rynge,https://github.com/rynge/searchsra-nextflow,rynge/searchsra-nextflow,,,NF
 sbilge,https://github.com/sbilge/nf-core-clinvap,sbilge/nf-core-clinvap,,MIT,NF
-SciLifeLab,https://github.com/SciLifeLab/Sarek,SciLifeLab/Sarek,Detect germline or somatic variants from normal or tumour/normal whole-genome or targeted sequencing,MIT,NF
 sergpolly,https://github.com/sergpolly/random-nextflow-utils,sergpolly/random-nextflow-utils,just trying to apply nextflow to some low-level data-management,MIT,NF
 shaze,https://github.com/shaze/nextflow-course,shaze/nextflow-course,,LGPL-2.1,NF
 simozhou,https://github.com/simozhou/epi-awesome,simozhou/epi-awesome,,MIT,NF
